@@ -1,0 +1,17 @@
+https://www.trustpilot.com//review/justfly.com,,,,,airlines_air_travel
+https://www.trustpilot.com//review/exploretrip.com,,,,,airlines_air_travel
+https://www.trustpilot.com//review/www.skygeek.com,,,,,airlines_air_travel
+https://www.trustpilot.com//review/kiwi.com,,,,,airlines_air_travel
+https://www.trustpilot.com//review/bookit.com,,,,,airlines_air_travel
+https://www.trustpilot.com//review/shivatravel.com,,,,,airlines_air_travel
+https://www.trustpilot.com//review/flyhacks.com,,,,,airlines_air_travel
+https://www.trustpilot.com//review/businessclassconsolidator.com,,,,,airlines_air_travel
+https://www.trustpilot.com//review/www.sky-tours.com,,,,,airlines_air_travel
+https://www.trustpilot.com//review/vacationexpress.com,,,,,airlines_air_travel
+https://www.trustpilot.com//review/flyus.com,,,,,airlines_air_travel
+https://www.trustpilot.com//review/www.vayama.com,,,,,airlines_air_travel
+https://www.trustpilot.com//review/www.myflightsearch.com,,,,,airlines_air_travel
+https://www.trustpilot.com//review/irishtourism.com,,,,,hotels
+https://www.trustpilot.com//review/fivestaralliance.com,,,,,hotels
+https://www.trustpilot.com//review/bluesunvacations.com,,,,,hotels
+https://www.trustpilot.com//review/alphaflightguru.com,,,,,hotels

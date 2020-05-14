@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="675ac944-10f6-40e5-a799-8ae9027d9257" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trustpilot/getData/reviews.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trustpilot/getData/reviews1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trustpilot/getData/reviews2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trustpilot/getData/reviews3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trustpilot/getData/reviews4.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bFys7BGsdAmFnmMPM4MUhQNDF5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="allsoftwareurls (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/trustpilot/allSoftwareUrls/allSoftwareUrls/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trustpilot/allSoftwareUrls/allSoftwareUrls/spiders/allsoftwareurls.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="allsoftwareurls" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/appsandreports/allSoftwareUrls/allSoftwareUrls/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/appsandreports/allSoftwareUrls/allSoftwareUrls/spiders/allsoftwareurls.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.test1" />
+        <item itemvalue="Python.allsoftwareurls (1)" />
+        <item itemvalue="Python.allsoftwareurls" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="675ac944-10f6-40e5-a799-8ae9027d9257" name="Default Changelist" comment="" />
+      <created>1588242339369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588242339369</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="502" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588252199759">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="502" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1588252199759" />
+    <state width="1134" height="279" key="GridCell.Tab.0.bottom" timestamp="1589371620332">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1579" height="275" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1588594652836" />
+    <state width="1134" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1600.60.1600.860@0.0.1920.1040" timestamp="1589371620332" />
+    <state width="1134" height="279" key="GridCell.Tab.0.center" timestamp="1589371620332">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1579" height="275" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1588594652836" />
+    <state width="1134" height="279" key="GridCell.Tab.0.center/0.0.1920.1040/-1600.60.1600.860@0.0.1920.1040" timestamp="1589371620332" />
+    <state width="1134" height="279" key="GridCell.Tab.0.left" timestamp="1589371620332">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1579" height="275" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1588594652836" />
+    <state width="1134" height="279" key="GridCell.Tab.0.left/0.0.1920.1040/-1600.60.1600.860@0.0.1920.1040" timestamp="1589371620332" />
+    <state width="1134" height="279" key="GridCell.Tab.0.right" timestamp="1589371620332">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1579" height="275" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1588594652836" />
+    <state width="1134" height="279" key="GridCell.Tab.0.right/0.0.1920.1040/-1600.60.1600.860@0.0.1920.1040" timestamp="1589371620332" />
+    <state width="1579" height="275" key="GridCell.Tab.1.bottom" timestamp="1588594652836">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="275" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1588594652836" />
+    <state width="1579" height="275" key="GridCell.Tab.1.center" timestamp="1588594652836">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="275" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1588594652836" />
+    <state width="1579" height="275" key="GridCell.Tab.1.left" timestamp="1588594652836">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="275" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1588594652836" />
+    <state width="1579" height="275" key="GridCell.Tab.1.right" timestamp="1588594652836">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="275" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1588594652836" />
+    <state x="361" y="87" key="SettingsEditor" timestamp="1589365629075">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="301" y="72" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1588242369228" />
+    <state x="361" y="87" key="SettingsEditor/0.0.1920.1040/-1600.60.1600.860@0.0.1920.1040" timestamp="1589365629075" />
+    <state x="595" y="307" key="com.intellij.ide.util.TipDialog" timestamp="1589446376225">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1588586994650" />
+    <state x="595" y="307" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1600.60.1600.860@0.0.1920.1040" timestamp="1589446376225" />
+    <state x="623" y="225" width="672" height="160" key="search.everywhere.popup" timestamp="1589283223297">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="160" key="search.everywhere.popup/0.0.1920.1040/-1600.60.1600.860@0.0.1920.1040" timestamp="1589283223297" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/allSoftwareUrls/allSoftwareUrls/spiders/allsoftwareurls.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

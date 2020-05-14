@@ -1,0 +1,17 @@
+https://www.trustpilot.com//review/tablethotels.com,,,,,hotels
+https://www.trustpilot.com//review/minitime.com,,,,,hotels
+https://www.trustpilot.com//review/reservationkey.com,,,,,hotels
+https://www.trustpilot.com//review/www.ukrainetour.com,,,,,hotels
+https://www.trustpilot.com//review/flights.com,,,,,hotels
+https://www.trustpilot.com//review/hoteling.com,,,,,hotels
+https://www.trustpilot.com//review/rushpassport.com,,,,,travel_agencies
+https://www.trustpilot.com//review/www.zicasso.com,,,,,travel_agencies
+https://www.trustpilot.com//review/peruforless.com,,,,,travel_agencies
+https://www.trustpilot.com//review/saexpeditions.com,,,,,travel_agencies
+https://www.trustpilot.com//review/www.flydealfare.com,,,,,travel_agencies
+https://www.trustpilot.com//review/aardvarkcompare.com,,,,,travel_agencies
+https://www.trustpilot.com//review/fareobuddy.com,,,,,travel_agencies
+https://www.trustpilot.com//review/www.vacationscostarica.com,,,,,travel_agencies
+https://www.trustpilot.com//review/mintfares.com,,,,,travel_agencies
+https://www.trustpilot.com//review/iflybusiness.com,,,,,travel_agencies
+https://www.trustpilot.com//review/pilgrimtours.com,,,,,travel_agencies

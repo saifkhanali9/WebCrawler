@@ -1,0 +1,17 @@
+https://www.trustpilot.com//review/www.cosmarto.com,,,,,cats_dogs
+https://www.trustpilot.com//review/stagingmybuddiesplace.azurewebsites.net,,,,,cats_dogs
+https://www.trustpilot.com//review/canineclubacademy.com,,,,,cats_dogs
+https://www.trustpilot.com//review/backontrackproducts.com,,,,,horses_riding
+https://www.trustpilot.com//review/paradisefarmandtack.com,,,,,horses_riding
+https://www.trustpilot.com//review/traumavoid.com,,,,,horses_riding
+https://www.trustpilot.com//review/totacomfortsystem.com,,,,,horses_riding
+https://www.trustpilot.com//review/westerndressageridinggear.com,,,,,horses_riding
+https://www.trustpilot.com//review/saddleonline.com,,,,,horses_riding
+https://www.trustpilot.com//review/petparadise.com,,,,,pet_services
+https://www.trustpilot.com//review/www.nomador.com,,,,,pet_services
+https://www.trustpilot.com//review/pawshake.com,,,,,pet_services
+https://www.trustpilot.com//review/meowtel.com,,,,,pet_services
+https://www.trustpilot.com//review/getyourpet.com,,,,,pet_services
+https://www.trustpilot.com//review/www.triaddogfence.com,,,,,pet_services
+https://www.trustpilot.com//review/furrybutts.com,,,,,pet_services
+https://www.trustpilot.com//review/joyfulpets.com,,,,,pet_services

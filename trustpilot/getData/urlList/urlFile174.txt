@@ -1,0 +1,17 @@
+https://www.trustpilot.com//review/futurepos.com,,,,,general_restaurants
+https://www.trustpilot.com//review/culinarydepotinc.com,,,,,general_restaurants
+https://www.trustpilot.com//review/mclhomemade.com,,,,,general_restaurants
+https://www.trustpilot.com//review/burgerimhumble.com,,,,,general_restaurants
+https://www.trustpilot.com//review/www.penthouse808rooftop.com,,,,,general_restaurants
+https://www.trustpilot.com//review/www.laylagrill.com,,,,,general_restaurants
+https://www.trustpilot.com//review/www.ablekitchen.com,,,,,general_restaurants
+https://www.trustpilot.com//review/www.ministeriet.org,,,,,general_restaurants
+https://www.trustpilot.com//review/www.tigerchef.com,,,,,general_restaurants
+https://www.trustpilot.com//review/www.favoriteindia.com,,,,,general_restaurants
+https://www.trustpilot.com//review/delivery2you.com,,,,,general_restaurants
+https://www.trustpilot.com//review/hopebreakfast.com,,,,,general_restaurants
+https://www.trustpilot.com//review/burgerimhumble.com,,,,,middle_eastern_cuisine
+https://www.trustpilot.com//review/mclhomemade.com,,,,,north_south_american_cuisine
+https://www.trustpilot.com//review/edwinmills.com,,,,,north_south_american_cuisine
+https://www.trustpilot.com//review/zeedigitizing.com,,,,,accessories
+https://www.trustpilot.com//review/coutureusa.com,,,,,accessories

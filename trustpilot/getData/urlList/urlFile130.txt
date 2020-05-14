@@ -1,0 +1,17 @@
+https://www.trustpilot.com//review/www.uspartscenter.com,,,,,bathroom_kitchen
+https://www.trustpilot.com//review/www.vinotemp.com,,,,,bathroom_kitchen
+https://www.trustpilot.com//review/abcshowerdoor.com,,,,,bathroom_kitchen
+https://www.trustpilot.com//review/www.faucettownusa.com,,,,,bathroom_kitchen
+https://www.trustpilot.com//review/anyassembly.com,,,,,bathroom_kitchen
+https://www.trustpilot.com//review/showerbay.com,,,,,bathroom_kitchen
+https://www.trustpilot.com//review/aquaheatplumbing.co.uk,,,,,bathroom_kitchen
+https://www.trustpilot.com//review/www.copenhagenbath.com,,,,,bathroom_kitchen
+https://www.trustpilot.com//review/crystalimagery.com,,,,,cultural_goods
+https://www.trustpilot.com//review/www.christkindl-markt.com,,,,,cultural_goods
+https://www.trustpilot.com//review/www.treetime.com,,,,,cultural_goods
+https://www.trustpilot.com//review/warmlyhome.com,,,,,cultural_goods
+https://www.trustpilot.com//review/everythingchopsticks.com,,,,,cultural_goods
+https://www.trustpilot.com//review/www.paintyourlife.com,,,,,decoration_interior
+https://www.trustpilot.com//review/factorypure.com,,,,,decoration_interior
+https://www.trustpilot.com//review/prestigebeds.co.uk,,,,,decoration_interior
+https://www.trustpilot.com//review/northcountryfire.com,,,,,decoration_interior
